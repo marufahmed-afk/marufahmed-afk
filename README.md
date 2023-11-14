@@ -1,4 +1,4 @@
--👋 Hi, I’m @marufahmed-afk
+- 👋 Hi, I’m @marufahmed-afk
 - 👀 Passionate about Frontend development
 - 🌱 Currently exploring new technologies in the ever-evolving web space
 - 💼 Working as a Frontend Engineer in the UK
